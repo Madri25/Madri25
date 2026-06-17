@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+```text
 Jorge Madrigal / profile
 ```
 
@@ -8,7 +8,7 @@ Jorge Madrigal / profile
 
 **Cybersecurity · Cloud · Software Development**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00D4FF&size=16&center=true&vCenter=true&width=600&height=60&lines=Técnico+en+Ciberseguridad;Estudiante+universitario+activo;Aprendiendo+Microsoft+Azure;Abierto+a+oportunidades+laborales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&color=00D4FF\&size=16\&center=true\&vCenter=true\&width=600\&height=60\&lines=Técnico+en+Ciberseguridad;Estudiante+universitario;Aprendiendo+Microsoft+Azure;Abierto+a+oportunidades+laborales)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,12 +16,11 @@ Jorge Madrigal / profile
 
 ## Sobre mí
 
-| | |
-|---|---|
-| **Formación** | Técnico Medio en Ciberseguridad — Estudios universitarios activos |
-| **Enfoque actual** | Microsoft Azure · Redes · Seguridad ofensiva/defensiva |
-| **Ubicación** | Costa Rica |
-| **Disponibilidad** | Abierto a oportunidades laborales y colaboraciones |
+* Técnico Medio en Ciberseguridad
+* Estudiante universitario
+* Interés en redes, cloud y seguridad
+* Aprendiendo Microsoft Azure
+* Abierto a oportunidades laborales
 
 > *"La verdadera fortaleza mental nace de enfrentar la incomodidad y lo que tememos."*
 
@@ -29,17 +28,23 @@ Jorge Madrigal / profile
 
 ## Stack técnico
 
-<div align="center">
+**Lenguajes de programación**
 
-![Python](https://img.shields.io/badge/Python-111420?style=flat-square&logo=python&logoColor=00D4FF)
-![Azure](https://img.shields.io/badge/Azure-111420?style=flat-square&logo=microsoftazure&logoColor=00D4FF)
-![Linux](https://img.shields.io/badge/Linux-111420?style=flat-square&logo=linux&logoColor=00D4FF)
-![HTML](https://img.shields.io/badge/HTML-111420?style=flat-square&logo=html5&logoColor=9BA3BC)
-![CSS](https://img.shields.io/badge/CSS-111420?style=flat-square&logo=css3&logoColor=9BA3BC)
-![JavaScript](https://img.shields.io/badge/JavaScript-111420?style=flat-square&logo=javascript&logoColor=9BA3BC)
-![Git](https://img.shields.io/badge/Git-111420?style=flat-square&logo=git&logoColor=9BA3BC)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
 
-</div>
+**Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+**Herramientas y plataformas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,linux,git,github" />
+</p>
 
 ---
 
@@ -59,7 +64,7 @@ Jorge Madrigal / profile
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Madri25&theme=tokyonight&hide_border=true&background=0D0F14&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=9BA3BC&dates=4A5068)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Madri25\&theme=tokyonight\&hide_border=true\&background=0D0F14\&ring=00D4FF\&fire=00D4FF\&currStreakLabel=00D4FF\&sideLabels=9BA3BC\&dates=4A5068)](https://git.io/streak-stats)
 
 </div>
 
@@ -69,8 +74,8 @@ Jorge Madrigal / profile
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Madrigal-111420?style=flat-square&logo=linkedin&logoColor=00D4FF&labelColor=111420)](https://www.linkedin.com/in/jorge-adrian-madrigal-marcia-cr)
-[![GitHub](https://img.shields.io/badge/GitHub-Madri25-111420?style=flat-square&logo=github&logoColor=9BA3BC&labelColor=111420)](https://github.com/Madri25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Madrigal-111420?style=flat-square\&logo=linkedin\&logoColor=00D4FF\&labelColor=111420)](https://www.linkedin.com/in/jorge-adrian-madrigal-marcia-cr)
+[![GitHub](https://img.shields.io/badge/GitHub-Madri25-111420?style=flat-square\&logo=github\&logoColor=9BA3BC\&labelColor=111420)](https://github.com/Madri25)
 
 </div>
 
