@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00D4FF&size=13&center=true&vCenter=true&width=300&height=30&lines=Jorge+Madrigal+/+profile" alt="Jorge Madrigal / profile"/>
 
 # Jorge Madrigal
 
